@@ -1,7 +1,7 @@
 ### > // WELCOME_TO_MY_WORKSPACE
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Angular%20%2B%20Firebase%20Specialist&fontSize=25&fontColor=222222&animation=fadeIn&fontAlignY=38&desc=Building%20functional%20and%20modern%20web%20interfaces&descAlignY=55&descSize=15" width="100%" alt="Header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Angular%20-%20Firebase%20Specialist&fontSize=25&fontColor=222222&animation=fadeIn&fontAlignY=38&desc=Building%20functional%20and%20modern%20web%20interfaces&descAlignY=55&descSize=15&v=final" width="100%" alt="Header">
 </div>
 
 <br/>
@@ -25,20 +25,23 @@ Aquí puedes ver cómo aplico mi stack técnico en diferentes escenarios reales 
 | Proyecto | Tipo | Stack & Highlights |
 | :--- | :--- | :--- |
 | **🐦 Gestión de Aviario (Canarios)** | 🟢 **En Producción** | `Angular` `Firebase` `PWA`<br/>• Sistema real para registro y trazabilidad de aves.<br/>• Gestión compleja de base de datos y usuarios reales. |
-| **💻 VS Code Portfolio** | 🎨 **UI Simulation** | `Angular` `SCSS` `Interactive`<br/>• Portafolio interactivo inspirado en el editor VS Code.<br/>• Navegación fluida y temática personalizada. |
-
-<br/>
+| **💻 VS Code Portfolio** | 🎨 **UI Simulation** | `Angular` `SCSS` `Interactive`<br/>• Portafolio interactivo que simula el IDE Visual Studio Code.<br/>• Manejo avanzado del DOM y gestión de estados. |
+| **📸 Social Image Network** | ☁️ **Social Media** | `Angular` `Tailwind` `Storage`<br/>• Red social para compartir fotografía.<br/>• Optimización de carga de imágenes y feeds en tiempo real. |
+| **🔮 Cyberpunk Hardware Store** | 🛒 **E-Commerce** | `Angular` `Signals` `Futuristic UI`<br/>• Tienda conceptual con diseño inmersivo.<br/>• Uso de las últimas características de Angular (Signals). |
 
 ---
 
-### > // TECH_STACK:
+### > // TECH_STACK_ARSENAL:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
+  
+  <br/>
+
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 
   <br/>
@@ -53,12 +56,10 @@ Aquí puedes ver cómo aplico mi stack técnico en diferentes escenarios reales 
 ### > // DEV_METRICS:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SalvucciFacundo&show_icons=true&locale=es&theme=radical&hide_border=true&bg_color=1a1b27" alt="Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SalvucciFacundo&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=1a1b27" alt="Top Langs" />
-</div>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SalvucciFacundo&theme=radical&hide_border=true&background=1a1b27" alt="Streak Stats" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SalvucciFacundo&show_icons=true&locale=es&theme=radical&hide_border=true&bg_color=1a1b27&v=final" alt="Stats" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalvucciFacundo&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=1a1b27&v=final" alt="Top Langs" />
+  </a>
 </div>
 
 <div align="center">
