@@ -1,7 +1,7 @@
 ### > // WELCOME_TO_MY_WORKSPACE
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Angular%20%2B%20Firebase%20Specialist&fontSize=25&fontColor=222222&animation=fadeIn&fontAlignY=38&desc=Building%20functional%20%26%20modern%20web%20interfaces&descAlignY=55&descSize=15" width="100%" alt="Header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Angular%20%2B%20Firebase%20Specialist&fontSize=25&fontColor=222222&animation=fadeIn&fontAlignY=38&desc=Building%20functional%20and%20modern%20web%20interfaces&descAlignY=55&descSize=15" width="100%" alt="Header">
 </div>
 
 <br/>
