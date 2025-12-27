@@ -57,8 +57,8 @@ Aquí puedes ver cómo aplico mi stack técnico en diferentes escenarios reales 
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SalvucciFacundo&show_icons=true&locale=es&theme=radical&hide_border=true&bg_color=1a1b27" alt="Stats" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalvucciFacundo&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=1a1b27" alt="Top Langs" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SalvucciFacundo&show_icons=true&locale=es&theme=radical&hide_border=true&bg_color=1a1b27&v=final" alt="Stats" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalvucciFacundo&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=1a1b27&v=final" alt="Top Langs" />
   </a>
 </div>
 
