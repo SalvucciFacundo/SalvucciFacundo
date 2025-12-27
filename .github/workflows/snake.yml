@@ -1,0 +1,32 @@
+name: Generate Snake
+
+on:
+  # Se ejecuta automáticamente cada 24 horas a la medianoche
+  schedule:
+    - cron: "0 0 * * *" 
+  
+  # Te permite ejecutarlo manualmente ahora mismo para probar
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      
+      - uses: Platane/snk@v3
+        with:
+          # TU USUARIO YA ESTÁ PUESTO AQUÍ:
+          github_user_name: SalvucciFacundo
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
