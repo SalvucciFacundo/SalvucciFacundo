@@ -24,10 +24,11 @@ Aquí puedes ver cómo aplico mi stack técnico en diferentes escenarios reales 
 
 | Proyecto | Tipo | Stack & Highlights |
 | :--- | :--- | :--- |
-| **🐦 Gestión de Aviario (Canarios)** | 🟢 **En Producción** | `Angular` `Firebase` `PWA`<br/>• Sistema real para registro y trazabilidad de aves.<br/>• Gestión compleja de base de datos y usuarios reales. |
-| **💻 VS Code Portfolio** | 🎨 **UI Simulation** | `Angular` `SCSS` `Interactive`<br/>• Portafolio interactivo que simula el IDE Visual Studio Code.<br/>• Manejo avanzado del DOM y gestión de estados. |
+| **[🐦 Gestión de Aviario (Canarios)](https://miscanarios.com.ar)** | 🟢 **En Producción** | `Angular` `Firebase` `PWA`<br/>• Sistema real para registro y trazabilidad de aves.<br/>• Gestión compleja de base de datos y usuarios reales. |
+| **[👕 Sector Remeras](https://sector-remeras.web.app)** | 🛒 **E-Commerce** | `Angular` `Firebase` `Tailwind`<br/>• Tienda online de remeras personalizadas con panel de admin.<br/>• Gestión de pedidos y galería de productos interactiva. |
+| **[💻 VS Code Portfolio](https://portafolio-f6f99.web.app)** | 🎨 **UI Simulation** | `Angular` `SCSS` `Interactive`<br/>• Portafolio interactivo que simula el IDE Visual Studio Code.<br/>• Manejo avanzado del DOM y gestión de estados. |
+| **[🔮 Cyberpunk Hardware Store](https://tecno-shop-ba780.web.app)** | 🛒 **E-Commerce** | `Angular` `Signals` `Futuristic UI`<br/>• Tienda conceptual con diseño inmersivo.<br/>• Uso de las últimas características de Angular (Signals). |
 | **📸 Social Image Network** | ☁️ **Social Media** | `Angular` `Tailwind` `Storage`<br/>• Red social para compartir fotografía.<br/>• Optimización de carga de imágenes y feeds en tiempo real. |
-| **🔮 Cyberpunk Hardware Store** | 🛒 **E-Commerce** | `Angular` `Signals` `Futuristic UI`<br/>• Tienda conceptual con diseño inmersivo.<br/>• Uso de las últimas características de Angular (Signals). |
 
 ---
 
@@ -56,9 +57,9 @@ Aquí puedes ver cómo aplico mi stack técnico en diferentes escenarios reales 
 ### > // DEV_METRICS:
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=SalvucciFacundo&show_icons=true&locale=es&theme=radical&hide_border=true&bg_color=1a1b27&v=final" alt="Stats" />
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalvucciFacundo&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=1a1b27&v=final" alt="Top Langs" />
+  <a href="https://github.com/SalvucciFacundo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SalvucciFacundo&show_icons=true&locale=es&theme=radical&hide_border=true&bg_color=1a1b27" alt="Stats" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalvucciFacundo&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=1a1b27" alt="Top Langs" />
   </a>
 </div>
 
@@ -73,7 +74,7 @@ Aquí puedes ver cómo aplico mi stack técnico en diferentes escenarios reales 
   <a href="https://linkedin.com/in/facundo-salvucci-bb68b2158">
     <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://portafolio-f6f99.firebaseapp.com">
+  <a href="https://portafolio-f6f99.web.app">
      <img src="https://img.shields.io/badge/Ver_Portfolio-232323?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="Portfolio" />
   </a>
 </div>
