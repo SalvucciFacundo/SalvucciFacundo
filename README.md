@@ -28,7 +28,16 @@ Aquí puedes ver cómo aplico mi stack técnico en diferentes escenarios reales 
 | **[👕 Sector Remeras](https://sector-remeras.web.app)** | 🛒 **E-Commerce** | `Angular` `Firebase` `Tailwind`<br/>• Tienda online de remeras personalizadas con panel de admin.<br/>• Gestión de pedidos y galería de productos interactiva. |
 | **[💻 VS Code Portfolio](https://portafolio-f6f99.web.app)** | 🎨 **UI Simulation** | `Angular` `SCSS` `Interactive`<br/>• Portafolio interactivo que simula el IDE Visual Studio Code.<br/>• Manejo avanzado del DOM y gestión de estados. |
 | **[🔮 Cyberpunk Hardware Store](https://tecno-shop-ba780.web.app)** | 🛒 **E-Commerce** | `Angular` `Signals` `Futuristic UI`<br/>• Tienda conceptual con diseño inmersivo.<br/>• Uso de las últimas características de Angular (Signals). |
-| **[📸 Social Image Network](https://infinite-deck.firebaseapp.com/)** | ☁️ **Social Media** | `Angular` `Tailwind` `Storage`<br/>• Red social para compartir fotografía.<br/>• Optimización de carga de imágenes y feeds en tiempo real. |
+
+---
+
+### > // MY_TROPHIES:
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=SalvucciFacundo&theme=tokyonight&no-bg=true&margin-w=4&v=final" alt="Trophy" />
+  </a>
+</div>
 
 ---
 
@@ -54,14 +63,7 @@ Aquí puedes ver cómo aplico mi stack técnico en diferentes escenarios reales 
 
 ---
 
-### > // DEV_METRICS:
-
-<div align="center">
-  <a href="https://github.com/SalvucciFacundo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SalvucciFacundo&show_icons=true&locale=es&theme=radical&hide_border=true&bg_color=1a1b27" alt="Stats" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalvucciFacundo&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=1a1b27" alt="Top Langs" />
-  </a>
-</div>
+### > // GITHUB_ACTIVITY:
 
 <div align="center">
   <br/>
