@@ -31,16 +31,6 @@ Aquí puedes ver cómo aplico mi stack técnico en diferentes escenarios reales 
 
 ---
 
-### > // MY_TROPHIES:
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=SalvucciFacundo&theme=tokyonight&no-bg=true&margin-w=4&v=final" alt="Trophy" />
-  </a>
-</div>
-
----
-
 ### > // TECH_STACK_ARSENAL:
 
 <div align="center">
