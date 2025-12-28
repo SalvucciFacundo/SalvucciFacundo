@@ -28,7 +28,7 @@ Aquí puedes ver cómo aplico mi stack técnico en diferentes escenarios reales 
 | **[👕 Sector Remeras](https://sector-remeras.web.app)** | 🛒 **E-Commerce** | `Angular` `Firebase` `Tailwind`<br/>• Tienda online de remeras personalizadas con panel de admin.<br/>• Gestión de pedidos y galería de productos interactiva. |
 | **[💻 VS Code Portfolio](https://portafolio-f6f99.web.app)** | 🎨 **UI Simulation** | `Angular` `SCSS` `Interactive`<br/>• Portafolio interactivo que simula el IDE Visual Studio Code.<br/>• Manejo avanzado del DOM y gestión de estados. |
 | **[🔮 Cyberpunk Hardware Store](https://tecno-shop-ba780.web.app)** | 🛒 **E-Commerce** | `Angular` `Signals` `Futuristic UI`<br/>• Tienda conceptual con diseño inmersivo.<br/>• Uso de las últimas características de Angular (Signals). |
-| **📸 Social Image Network** | ☁️ **Social Media** | `Angular` `Tailwind` `Storage`<br/>• Red social para compartir fotografía.<br/>• Optimización de carga de imágenes y feeds en tiempo real. |
+| **[📸 Social Image Network](https://infinite-deck.firebaseapp.com/)** | ☁️ **Social Media** | `Angular` `Tailwind` `Storage`<br/>• Red social para compartir fotografía.<br/>• Optimización de carga de imágenes y feeds en tiempo real. |
 
 ---
 
