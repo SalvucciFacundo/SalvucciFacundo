@@ -7,11 +7,11 @@
 <br/>
 
 <h3 align="center">
-  <samp>> TRANSFORMANDO IDEAS EN INTERFACES FLUIDAS</samp>
+  <samp>> TRANSFORMING IDEAS INTO FLUID INTERFACES</samp>
 </h3>
 
 <div align="center">
-  Hola, soy <strong>Facundo Salvucci</strong>. Desarrollador Frontend enfocado en el ecosistema <strong>Angular</strong>. Me dedico a construir aplicaciones de página única (SPA) funcionales y visualmente agradables. Me especializo en la integración con <strong>Firebase</strong> (Auth, Firestore, Storage) y el diseño moderno utilizando <strong>Tailwind CSS</strong> y <strong>SCSS</strong>.
+  Hi, I'm <strong>Facundo Salvucci</strong>. A Frontend Developer focused on the <strong>Angular</strong> ecosystem. I build functional and visually appealing Single Page Applications (SPAs). I specialize in <strong>Firebase</strong> integration (Auth, Firestore, Storage) and modern design using <strong>Tailwind CSS</strong> and <strong>SCSS</strong>.
 </div>
 
 <br/>
@@ -20,14 +20,17 @@
 
 ### > // MAIN_PROJECT_HUB:
 
-Aquí puedes ver cómo aplico mi stack técnico en diferentes escenarios reales y conceptuales:
+Here's how I apply my technical stack across different real-world and conceptual scenarios:
 
-| Proyecto | Tipo | Stack & Highlights |
+| Project | Status / Type | Stack & Highlights |
 | :--- | :--- | :--- |
-| **[🐦 Gestión de Aviario (Canarios)](https://miscanarios.com.ar)** | 🟢 **En Producción** | `Angular` `Firebase` `PWA`<br/>• Sistema real para registro y trazabilidad de aves.<br/>• Gestión compleja de base de datos y usuarios reales. |
-| **[👕 Sector Remeras](https://sector-remeras.web.app)** | 🛒 **E-Commerce** | `Angular` `Firebase` `Tailwind`<br/>• Tienda online de remeras personalizadas con panel de admin.<br/>• Gestión de pedidos y galería de productos interactiva. |
-| **[💻 VS Code Portfolio](https://portafolio-f6f99.web.app)** | 🎨 **UI Simulation** | `Angular` `SCSS` `Interactive`<br/>• Portafolio interactivo que simula el IDE Visual Studio Code.<br/>• Manejo avanzado del DOM y gestión de estados. |
-| **[🔮 Cyberpunk Hardware Store](https://tecno-shop-ba780.web.app)** | 🛒 **E-Commerce** | `Angular` `Signals` `Futuristic UI`<br/>• Tienda conceptual con diseño inmersivo.<br/>• Uso de las últimas características de Angular (Signals). |
+| **[🐦 Mis Canarios (Aviculture Mgt)](https://miscanarios.com.ar)** | 🟢 **Production** | `Angular` `Firebase` `PWA`<br/>• Real-world system for bird breeding and pedigree tracking.<br/>• Complex database management and real user base. |
+| **[🛍️ Mendoza Shop Web](https://mendoza-shop.web.app/)** | 🏗️ **Development** | `Angular` `Firebase` `Tailwind`<br/>• Local marketplace platform with specialized vendor dashboard. |
+| **[✍️ Novel Editor IA](https://web-novel-16cd7.web.app)** | 🤖 **Web App** | `Angular` `Firebase` `OpenAI`<br/>• Writing environment for authors with AI assistance. |
+| **[💻 IDE Style Portfolio](https://facundosalvucci.web.app)** | 🎨 **UI Simulation** | `Angular` `SCSS` `Interactive`<br/>• Interactive portfolio simulating the VS Code IDE interface. |
+| **[👕 Sector Remeras](https://sector-remeras.web.app)** | 🛒 **E-Commerce** | `Angular` `Firebase` `Tailwind`<br/>• Online store for custom t-shirts with admin panel. |
+| **[📈 Dólar Hoy Arg](https://github.com/SalvucciFacundo/dolar-hoy-arg)** | 📊 **Dashboard** | `Angular` `Financial API` `Tailwind`<br/>• Real-time financial dashboard for currency rates and yields. |
+| **[🔍 AI Image Classifier](https://github.com/SalvucciFacundo/ClasificadorIA)** | 🧠 **Machine Learning** | `TensorFlow.js` `Angular`<br/>• Neural network project for real vs AI image classification. |
 
 ---
 
@@ -66,7 +69,7 @@ Aquí puedes ver cómo aplico mi stack técnico en diferentes escenarios reales 
   <a href="https://linkedin.com/in/facundo-salvucci-bb68b2158">
     <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://portafolio-f6f99.web.app">
-     <img src="https://img.shields.io/badge/Ver_Portfolio-232323?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="Portfolio" />
+  <a href="https://facundosalvucci.web.app">
+     <img src="https://img.shields.io/badge/View_Portfolio-232323?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="Portfolio" />
   </a>
 </div>
