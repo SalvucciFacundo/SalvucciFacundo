@@ -1,7 +1,7 @@
 ### > // WELCOME TO MY WORKSPACE
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Developer%20and%20Automation%20Specialist&fontSize=25&fontColor=222222&animation=fadeIn&fontAlignY=38&desc=Building%20intelligent%20agents%2C%20Go%20tooling%20and%20modern%20web%20apps&descAlignY=55&descSize=15&v=final" width="100%" alt="Header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Developer%20and%20Automation%20Specialist&fontSize=25&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20intelligent%20agents%2C%20Go%20tooling%20and%20modern%20web%20apps&descAlignY=55&descSize=15&v=final" width="100%" alt="Header">
 </div>
 
 <br/>
