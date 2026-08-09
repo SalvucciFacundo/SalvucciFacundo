@@ -1,17 +1,17 @@
 ### > // WELCOME_TO_MY_WORKSPACE
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Angular%20-%20Firebase%20Specialist&fontSize=25&fontColor=222222&animation=fadeIn&fontAlignY=38&desc=Building%20functional%20and%20modern%20web%20interfaces&descAlignY=55&descSize=15&v=final" width="100%" alt="Header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Developer%20%26%20Automation%20Specialist&fontSize=25&fontColor=222222&animation=fadeIn&fontAlignY=38&desc=Building%20intelligent%20agents%2C%20Go%20tooling%20and%20modern%20web%20apps&descAlignY=55&descSize=15&v=final" width="100%" alt="Header">
 </div>
 
 <br/>
 
 <h3 align="center">
-  <samp>> TRANSFORMING IDEAS INTO FLUID INTERFACES</samp>
+  <samp>> ENGINEERING AUTONOMOUS SYSTEMS & SCALABLE TOOLING</samp>
 </h3>
 
 <div align="center">
-  Hi, I'm <strong>Facundo Salvucci</strong>. A Frontend Developer focused on the <strong>Angular</strong> ecosystem. I build functional and visually appealing Single Page Applications (SPAs). I specialize in <strong>Firebase</strong> integration (Auth, Firestore, Storage) and modern design using <strong>Tailwind CSS</strong> and <strong>SCSS</strong>.
+  Hi, I'm <strong>Facundo Salvucci</strong>. A <strong>Developer & Automation Specialist</strong> building autonomous AI agents, developer tooling, and full-stack web applications. I work across the <strong>Go</strong> ecosystem (agents, CLIs, templ + HTMX), <strong>Angular</strong> SPAs, <strong>Next.js</strong>, and <strong>Firebase</strong> — with a focus on automation, MCP servers, and AI-powered workflows.
 </div>
 
 <br/>
@@ -24,34 +24,39 @@ Here's how I apply my technical stack across different real-world and conceptual
 
 | Project | Status / Type | Stack & Highlights |
 | :--- | :--- | :--- |
-| **[🐦 Mis Canarios (Aviculture Mgt)](https://miscanarios.com.ar)** | 🟢 **Production** | `Angular` `Firebase` `PWA`<br/>• Real-world system for bird breeding and pedigree tracking.<br/>• Complex database management and real user base. |
-| **[🛍️ Mendoza Shop Web](https://mendoza-shop.web.app/)** | 🏗️ **Development** | `Angular` `Firebase` `Tailwind`<br/>• Local marketplace platform with specialized vendor dashboard. |
-| **[✍️ Novel Editor IA](https://web-novel-16cd7.web.app)** | 🤖 **Web App** | `Angular` `Firebase` `OpenAI`<br/>• Writing environment for authors with AI assistance. |
-| **[💻 IDE Style Portfolio](https://facundosalvucci.web.app)** | 🎨 **UI Simulation** | `Angular` `SCSS` `Interactive`<br/>• Interactive portfolio simulating the VS Code IDE interface. |
-| **[👕 Sector Remeras](https://sector-remeras.web.app)** | 🛒 **E-Commerce** | `Angular` `Firebase` `Tailwind`<br/>• Online store for custom t-shirts with admin panel. |
-| **[📈 Dólar Hoy Arg](https://github.com/SalvucciFacundo/dolar-hoy-arg)** | 📊 **Dashboard** | `Angular` `Financial API` `Tailwind`<br/>• Real-time financial dashboard for currency rates and yields. |
-| **[🔍 AI Image Classifier](https://github.com/SalvucciFacundo/ClasificadorIA)** | 🧠 **Machine Learning** | `TensorFlow.js` `Angular`<br/>• Neural network project for real vs AI image classification. |
+| **[🟢 GAIA — Autonomous Agent](https://github.com/SalvucciFacundo/gaia)** | 🟢 **Active** | `Go` `LLM Agents` `MCP` `SDD`<br/>• Programming-first autonomous agent with 12+ specialized subagents (Explorer, Implementer, Reviewer, Debugger...).<br/>• Mixture of Agents (MoA), spec-driven development pipeline, persistent knowledge graph, credential pools with failover. |
+| **[🔧 go-arch-cli](https://github.com/SalvucciFacundo/go-arch-cli)** | 🟢 **Active** | `Go` `CLI` `gRPC` `OpenTelemetry`<br/>• Professional scaffolding tool for Go: Minimalist, Standard & Hexagonal architectures.<br/>• Component generators, templ+HTMX frontend, MCP server, native packages (Arch/Debian/Fedora/Alpine/macOS/Windows). |
+| **[🏝️ templ-islands](https://github.com/SalvucciFacundo/templ-islands)** | 🟢 **Active** | `Go` `templ` `HTMX` `SSE`<br/>• Islands architecture for templ: same component rendered server-side or hydrated client-side.<br/>• Generic embedded runtime with optimistic UI, re-render, infinite scroll and real-time SSE streams. |
+| **[📅 Appointments App](https://github.com/SalvucciFacundo/appointments-app)** | 🟢 **Active** | `Next.js` `TypeScript` `PostgreSQL` `Auth.js`<br/>• SaaS for appointment management with role-based access.<br/>• Server-side rendering, REST API, secure authentication flow. |
+| **[🐦 Mis Canarios](https://miscanarios.com.ar)** | 🟢 **Production** | `Angular` `Firebase` `PWA`<br/>• Real-world system for bird breeding and pedigree tracking.<br/>• Complex database management and real user base. |
+| **[👕 Sector Remeras](https://sector-remeras.web.app)** | 🛒 **E-Commerce** | `Angular` `Firebase` `Tailwind`<br/>• Online store for custom t-shirts with gallery, admin panel and order forms. |
+| **[🛍️ Tecno Shop](https://github.com/SalvucciFacundo/tecno-shop)** | 🛒 **E-Commerce** | `Angular` `SCSS` `Firebase`<br/>• Technology store with product catalog and shopping flow. |
+
+> 💡 *More projects in development: a personal expenses tracker (Next.js + PostgreSQL + Auth.js), Go-based image classifier with local VLM, and new automation pipelines.*
 
 ---
 
 ### > // TECH_STACK_ARSENAL:
 
 <div align="center">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white" alt="RxJS" />
-  
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+
   <br/>
 
+  <img src="https://img.shields.io/badge/templ-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="templ" />
+  <img src="https://img.shields.io/badge/HTMX-3366CC?style=for-the-badge&logo=htmx&logoColor=white" alt="HTMX" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SASS" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
 
   <br/>
 
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=github&logoColor=white" alt="MCP" />
+  <img src="https://img.shields.io/badge/LLM_Agents-6B46C1?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Agents" />
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM" />
 </div>
 
 ---
