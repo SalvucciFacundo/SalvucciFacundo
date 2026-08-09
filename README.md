@@ -1,7 +1,7 @@
-### > // WELCOME_TO_MY_WORKSPACE
+### > // WELCOME TO MY WORKSPACE
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Developer%20%26%20Automation%20Specialist&fontSize=25&fontColor=222222&animation=fadeIn&fontAlignY=38&desc=Building%20intelligent%20agents%2C%20Go%20tooling%20and%20modern%20web%20apps&descAlignY=55&descSize=15&v=final" width="100%" alt="Header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Developer%20and%20Automation%20Specialist&fontSize=25&fontColor=222222&animation=fadeIn&fontAlignY=38&desc=Building%20intelligent%20agents%2C%20Go%20tooling%20and%20modern%20web%20apps&descAlignY=55&descSize=15&v=final" width="100%" alt="Header">
 </div>
 
 <br/>
@@ -18,7 +18,7 @@
 
 ---
 
-### > // MAIN_PROJECT_HUB:
+### > // MAIN PROJECT HUB:
 
 Here's how I apply my technical stack across different real-world and conceptual scenarios:
 
@@ -36,7 +36,7 @@ Here's how I apply my technical stack across different real-world and conceptual
 
 ---
 
-### > // TECH_STACK_ARSENAL:
+### > // TECH STACK ARSENAL:
 
 <div align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
@@ -61,7 +61,7 @@ Here's how I apply my technical stack across different real-world and conceptual
 
 ---
 
-### > // GITHUB_ACTIVITY:
+### > // GITHUB ACTIVITY:
 
 <div align="center">
   <br/>
