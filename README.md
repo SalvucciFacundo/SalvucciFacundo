@@ -65,9 +65,10 @@ These are the projects I'm most proud of — the ones that show how I think and 
 ### > // GITHUB STATS
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/SalvucciFacundo?style=for-the-badge&logo=github&label=Followers&color=2dd4bf" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/SalvucciFacundo?style=for-the-badge&logo=github&label=Total%20Stars&color=34d399" alt="Total Stars" />
-  <img src="https://img.shields.io/github/repos/SalvucciFacundo?style=for-the-badge&logo=github&label=Repos&color=cbd5e1" alt="Repos" />
+  <img src="https://img.shields.io/github/languages/top/SalvucciFacundo/gaia?style=for-the-badge&label=GAIA&color=00ADD8" alt="GAIA Language" />
+  <img src="https://img.shields.io/github/languages/top/SalvucciFacundo/portfolio-go?style=for-the-badge&label=Portfolio&color=00ADD8" alt="Portfolio Language" />
+  <img src="https://img.shields.io/github/languages/top/SalvucciFacundo/go-arch-cli?style=for-the-badge&label=go-arch-cli&color=00ADD8" alt="go-arch-cli Language" />
+  <img src="https://img.shields.io/github/languages/top/SalvucciFacundo/appointments-app?style=for-the-badge&label=Appointments&color=3178C6" alt="Appointments Language" />
   <img src="https://img.shields.io/badge/Open%20to%20Work-2dd4bf?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
 </div>
 
@@ -80,6 +81,7 @@ These are the projects I'm most proud of — the ones that show how I think and 
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 
   <br/>
 
