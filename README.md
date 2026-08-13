@@ -1,32 +1,58 @@
 ### > // WELCOME TO MY WORKSPACE
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Developer%20and%20Automation%20Specialist&fontSize=25&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20intelligent%20agents%2C%20Go%20tooling%20and%20modern%20web%20apps&descAlignY=55&descSize=15&v=final" width="100%" alt="Header">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=130&section=header&text=Facundo%20Salvucci&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20Developer%20and%20Developer%20Tools&descAlignY=55&descSize=15&v=3" width="100%" alt="Header">
 </div>
 
 <br/>
 
 <h3 align="center">
-  <samp>> ENGINEERING AUTONOMOUS SYSTEMS & SCALABLE TOOLING</samp>
+  <samp>> BUILDING FULL STACK WEB APPS AND DEVELOPER TOOLS</samp>
 </h3>
 
+<br/>
+
+### > // ABOUT ME
+
 <div align="center">
-  Hi, I'm <strong>Facundo Salvucci</strong>. A <strong>Developer & Automation Specialist</strong> building autonomous AI agents, developer tooling, and full-stack web applications. I work across the <strong>Go</strong> ecosystem (agents, CLIs, templ + HTMX), <strong>Angular</strong> SPAs, <strong>Next.js</strong>, and <strong>Firebase</strong> — with a focus on automation, MCP servers, and AI-powered workflows.
+  <p>
+    I'm <strong>Facundo Salvucci</strong> — a <strong>Full Stack Web Developer and Developer Tools Builder</strong> from Mendoza, Argentina.
+    I build complete web applications end-to-end: server-rendered frontends, Go backends, and self-hosted infrastructure.
+    My stack: <strong>Go</strong> (APIs, CLIs, templ + HTMX), <strong>Angular</strong>, <strong>Next.js</strong>, <strong>PostgreSQL</strong> — deployed and automated with <strong>Docker</strong> and <strong>Dokploy</strong>.
+  </p>
+  <p>
+    <a href="https://facundosalvucci.dev">
+      <img src="https://img.shields.io/badge/Portfolio-facundosalvucci.dev-2dd4bf?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/facundo-salvucci-bb68b2158">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:fds1288@gmail.com">
+      <img src="https://img.shields.io/badge/Email-fds1288%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 </div>
 
 <br/>
 
 ---
 
-### > // MAIN PROJECT HUB:
+### > // FEATURED PROJECTS
 
-Here's how I apply my technical stack across different real-world and conceptual scenarios:
+These are the projects I'm most proud of — the ones that show how I think and what I build.
+
+| | |
+| :--- | :--- |
+| **🤖 GAIA — Autonomous Agent**<br/>`Go` `LLM Agents` `MCP` `SDD` | A programming-first autonomous agent with **12+ specialized subagents** (Explorer, Implementer, Reviewer, Debugger). Features mixture-of-agents (MoA), a spec-driven development pipeline, persistent knowledge graph, and credential pools with failover. It doesn't just answer — it plans, executes, and reviews its own work. |
+| **🔧 go-arch-cli**<br/>`Go` `CLI` `gRPC` `OpenTelemetry` | Professional scaffolding tool for Go with **Minimalist, Standard & Hexagonal** architectures. Component generators, templ+HTMX frontend support, MCP server integration, and native packages for Arch/Debian/Fedora/Alpine/macOS/Windows. The tool I reach for every time I start a Go project. |
+| **🏝️ templ-islands**<br/>`Go` `templ` `HTMX` `SSE` | Islands architecture for templ: the **same component rendered server-side or hydrated client-side**. Generic embedded runtime with optimistic UI, re-render, infinite scroll, and real-time SSE streams — bridging the gap between server-rendered simplicity and SPA interactivity. |
+
+<br/>
+
+### > // PROJECT HUB
 
 | Project | Status / Type | Stack & Highlights |
 | :--- | :--- | :--- |
-| **[🟢 GAIA — Autonomous Agent](https://github.com/SalvucciFacundo/gaia)** | 🟢 **Active** | `Go` `LLM Agents` `MCP` `SDD`<br/>• Programming-first autonomous agent with 12+ specialized subagents (Explorer, Implementer, Reviewer, Debugger...).<br/>• Mixture of Agents (MoA), spec-driven development pipeline, persistent knowledge graph, credential pools with failover. |
-| **[🔧 go-arch-cli](https://github.com/SalvucciFacundo/go-arch-cli)** | 🟢 **Active** | `Go` `CLI` `gRPC` `OpenTelemetry`<br/>• Professional scaffolding tool for Go: Minimalist, Standard & Hexagonal architectures.<br/>• Component generators, templ+HTMX frontend, MCP server, native packages (Arch/Debian/Fedora/Alpine/macOS/Windows). |
-| **[🏝️ templ-islands](https://github.com/SalvucciFacundo/templ-islands)** | 🟢 **Active** | `Go` `templ` `HTMX` `SSE`<br/>• Islands architecture for templ: same component rendered server-side or hydrated client-side.<br/>• Generic embedded runtime with optimistic UI, re-render, infinite scroll and real-time SSE streams. |
 | **[📅 Appointments App](https://github.com/SalvucciFacundo/appointments-app)** | 🟢 **Active** | `Next.js` `TypeScript` `PostgreSQL` `Auth.js`<br/>• SaaS for appointment management with role-based access.<br/>• Server-side rendering, REST API, secure authentication flow. |
 | **[🐦 Mis Canarios](https://miscanarios.com.ar)** | 🟢 **Production** | `Angular` `Firebase` `PWA`<br/>• Real-world system for bird breeding and pedigree tracking.<br/>• Complex database management and real user base. |
 | **[👕 Sector Remeras](https://sector-remeras.web.app)** | 🛒 **E-Commerce** | `Angular` `Firebase` `Tailwind`<br/>• Online store for custom t-shirts with gallery, admin panel and order forms. |
@@ -34,9 +60,18 @@ Here's how I apply my technical stack across different real-world and conceptual
 
 > 💡 *More projects in development: a personal expenses tracker (Next.js + PostgreSQL + Auth.js), Go-based image classifier with local VLM, and new automation pipelines.*
 
----
+<br/>
 
-### > // TECH STACK ARSENAL:
+### > // GITHUB STATS
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SalvucciFacundo&show_icons=true&count_private=true&theme=transparent&title_color=2dd4bf&icon_color=34d399&text_color=cbd5e1&border_color=1e293b" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalvucciFacundo&layout=compact&theme=transparent&title_color=2dd4bf&text_color=cbd5e1&border_color=1e293b" alt="Top Languages" />
+</div>
+
+<br/>
+
+### > // TECH STACK ARSENAL
 
 <div align="center">
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
@@ -54,14 +89,16 @@ Here's how I apply my technical stack across different real-world and conceptual
   <br/>
 
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Dokploy-5F2EEA?style=for-the-badge&logo=docker&logoColor=white" alt="Dokploy" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=github&logoColor=white" alt="MCP" />
   <img src="https://img.shields.io/badge/LLM_Agents-6B46C1?style=for-the-badge&logo=openai&logoColor=white" alt="LLM Agents" />
   <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </div>
 
----
+<br/>
 
-### > // GITHUB ACTIVITY:
+### > // GITHUB ACTIVITY
 
 <div align="center">
   <br/>
@@ -70,11 +107,17 @@ Here's how I apply my technical stack across different real-world and conceptual
 
 <br/>
 
+### > // LET'S CONNECT
+
 <div align="center">
-  <a href="https://linkedin.com/in/facundo-salvucci-bb68b2158">
-    <img src="https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <p>I'm always open to interesting projects, collaborations, and automation challenges.</p>
+  <a href="https://facundosalvucci.dev">
+    <img src="https://img.shields.io/badge/Portfolio-2dd4bf?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://facundosalvucci.web.app">
-     <img src="https://img.shields.io/badge/View_Portfolio-232323?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" alt="Portfolio" />
+  <a href="https://linkedin.com/in/facundo-salvucci-bb68b2158">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fds1288@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
