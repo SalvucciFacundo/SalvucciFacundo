@@ -24,7 +24,7 @@
     <a href="https://facundosalvucci.dev">
       <img src="https://img.shields.io/badge/Portfolio-facundosalvucci.dev-2dd4bf?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
-    <a href="https://linkedin.com/in/facundo-salvucci-bb68b2158">
+    <a href="https://www.linkedin.com/in/facundo-salvucci">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:fds1288@gmail.com">
@@ -116,7 +116,7 @@ These are the projects I'm most proud of — the ones that show how I think and 
   <a href="https://facundosalvucci.dev">
     <img src="https://img.shields.io/badge/Portfolio-2dd4bf?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://linkedin.com/in/facundo-salvucci-bb68b2158">
+  <a href="https://www.linkedin.com/in/facundo-salvucci">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:fds1288@gmail.com">
