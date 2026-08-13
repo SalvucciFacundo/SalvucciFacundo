@@ -30,9 +30,7 @@
     <a href="mailto:&#102;&#100;&#115;&#49;&#50;&#56;&#56;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://www.linkedin.com/in/facundo-salvucci">
-      <img src="https://img.shields.io/badge/Open%20to%20Work-F59E0B?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
-    </a>
+    <a href="https://www.linkedin.com/in/facundo-salvucci">    </a>
   </p>
 </div>
 
