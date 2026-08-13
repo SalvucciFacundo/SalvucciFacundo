@@ -65,8 +65,10 @@ These are the projects I'm most proud of — the ones that show how I think and 
 ### > // GITHUB STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SalvucciFacundo&show_icons=true&count_private=true&theme=transparent&title_color=2dd4bf&icon_color=34d399&text_color=cbd5e1&border_color=1e293b" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SalvucciFacundo&layout=compact&theme=transparent&title_color=2dd4bf&text_color=cbd5e1&border_color=1e293b" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/SalvucciFacundo?style=for-the-badge&logo=github&label=Followers&color=2dd4bf" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/SalvucciFacundo?style=for-the-badge&logo=github&label=Total%20Stars&color=34d399" alt="Total Stars" />
+  <img src="https://img.shields.io/github/repos/SalvucciFacundo?style=for-the-badge&logo=github&label=Repos&color=cbd5e1" alt="Repos" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-2dd4bf?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
 </div>
 
 <br/>
