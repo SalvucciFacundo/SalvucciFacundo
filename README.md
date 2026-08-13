@@ -27,8 +27,8 @@
     <a href="https://www.linkedin.com/in/facundo-salvucci">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:fds1288@gmail.com">
-      <img src="https://img.shields.io/badge/Email-fds1288%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <a href="https://facundosalvucci.dev/#contact">
+      <img src="https://img.shields.io/badge/Contact%20Me-2dd4bf?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
     </a>
   </p>
 </div>
@@ -59,18 +59,6 @@ These are the projects I'm most proud of — the ones that show how I think and 
 | **[🛍️ Tecno Shop](https://github.com/SalvucciFacundo/tecno-shop)** | 🛒 **E-Commerce** | `Angular` `SCSS` `Firebase`<br/>• Technology store with product catalog and shopping flow. |
 
 > 💡 *More projects in development: a personal expenses tracker (Next.js + PostgreSQL + Auth.js), Go-based image classifier with local VLM, and new automation pipelines.*
-
-<br/>
-
-### > // GITHUB STATS
-
-<div align="center">
-  <img src="https://img.shields.io/github/languages/top/SalvucciFacundo/gaia?style=for-the-badge&label=GAIA&color=00ADD8" alt="GAIA Language" />
-  <img src="https://img.shields.io/github/languages/top/SalvucciFacundo/portfolio-go?style=for-the-badge&label=Portfolio&color=00ADD8" alt="Portfolio Language" />
-  <img src="https://img.shields.io/github/languages/top/SalvucciFacundo/go-arch-cli?style=for-the-badge&label=go-arch-cli&color=00ADD8" alt="go-arch-cli Language" />
-  <img src="https://img.shields.io/github/languages/top/SalvucciFacundo/appointments-app?style=for-the-badge&label=Appointments&color=3178C6" alt="Appointments Language" />
-  <img src="https://img.shields.io/badge/Open%20to%20Work-2dd4bf?style=for-the-badge&logo=github&logoColor=white" alt="Open to Work" />
-</div>
 
 <br/>
 
@@ -121,7 +109,7 @@ These are the projects I'm most proud of — the ones that show how I think and 
   <a href="https://www.linkedin.com/in/facundo-salvucci">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:fds1288@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://facundosalvucci.dev/#contact">
+    <img src="https://img.shields.io/badge/Contact%20Me-2dd4bf?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
   </a>
 </div>
