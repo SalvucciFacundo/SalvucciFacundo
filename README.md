@@ -44,22 +44,69 @@
 
 These are the projects I'm most proud of — the ones that show how I think and what I build.
 
-| | |
-| :--- | :--- |
-| **🤖 GAIA — Autonomous Agent**<br/>`Go` `LLM Agents` `MCP` `SDD` | A programming-first autonomous agent with **12+ specialized subagents** (Explorer, Implementer, Reviewer, Debugger). Features mixture-of-agents (MoA), a spec-driven development pipeline, persistent knowledge graph, and credential pools with failover. It doesn't just answer — it plans, executes, and reviews its own work. |
-| **🔧 go-arch-cli**<br/>`Go` `CLI` `gRPC` `OpenTelemetry` | Professional scaffolding tool for Go with **Minimalist, Standard & Hexagonal** architectures. Component generators, templ+HTMX frontend support, MCP server integration, and native packages for Arch/Debian/Fedora/Alpine/macOS/Windows. The tool I reach for every time I start a Go project. |
-| **🏝️ templ-islands**<br/>`Go` `templ` `HTMX` `SSE` | Islands architecture for templ: the **same component rendered server-side or hydrated client-side**. Generic embedded runtime with optimistic UI, re-render, infinite scroll, and real-time SSE streams — bridging the gap between server-rendered simplicity and SPA interactivity. |
+<div align="center">
+  <table style="border-collapse: separate; border-spacing: 12px; width: 100%; max-width: 900px;">
+    <tr>
+      <td width="33%" align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 14px; padding: 20px 16px; vertical-align: top;">
+        <p style="font-size: 22px; margin: 0 0 6px 0;">🤖</p>
+        <p style="margin: 0 0 4px 0;"><strong style="color: #e6edf3; font-size: 16px;">GAIA</strong></p>
+        <p style="margin: 0 0 10px 0; color: #34d399; font-size: 13px; font-weight: 600;">Autonomous Agent</p>
+        <p style="margin: 0 0 12px 0; color: #8b949e; font-size: 13px; line-height: 1.5;">Programming-first autonomous agent with <strong style="color: #c9d1d9;">12+ specialized subagents</strong> (Explorer, Implementer, Reviewer, Debugger). MoA, spec-driven pipeline, knowledge graph, credential pools.</p>
+        <p style="margin: 0 0 12px 0;"><code style="background-color: #161b22; color: #58a6ff; padding: 2px 6px; border-radius: 4px; font-size: 12px;">Go</code> <code style="background-color: #161b22; color: #58a6ff; padding: 2px 6px; border-radius: 4px; font-size: 12px;">LLM Agents</code> <code style="background-color: #161b22; color: #58a6ff; padding: 2px 6px; border-radius: 4px; font-size: 12px;">MCP</code></p>
+        <p style="margin: 0;"><a href="https://github.com/SalvucciFacundo/gaia" style="color: #2dd4bf; font-size: 13px; font-weight: 600; text-decoration: none;">View Repo →</a></p>
+      </td>
+      <td width="34%" align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 14px; padding: 20px 16px; vertical-align: top;">
+        <p style="font-size: 22px; margin: 0 0 6px 0;">🔧</p>
+        <p style="margin: 0 0 4px 0;"><strong style="color: #e6edf3; font-size: 16px;">go-arch-cli</strong></p>
+        <p style="margin: 0 0 10px 0; color: #34d399; font-size: 13px; font-weight: 600;">Go Scaffolding Tool</p>
+        <p style="margin: 0 0 12px 0; color: #8b949e; font-size: 13px; line-height: 1.5;">Professional scaffolding with <strong style="color: #c9d1d9;">Minimalist, Standard & Hexagonal</strong> architectures. Component generators, templ+HTMX support, MCP server, native packages.</p>
+        <p style="margin: 0 0 12px 0;"><code style="background-color: #161b22; color: #58a6ff; padding: 2px 6px; border-radius: 4px; font-size: 12px;">Go</code> <code style="background-color: #161b22; color: #58a6ff; padding: 2px 6px; border-radius: 4px; font-size: 12px;">CLI</code> <code style="background-color: #161b22; color: #58a6ff; padding: 2px 6px; border-radius: 4px; font-size: 12px;">gRPC</code></p>
+        <p style="margin: 0;"><a href="https://github.com/SalvucciFacundo/go-arch-cli" style="color: #2dd4bf; font-size: 13px; font-weight: 600; text-decoration: none;">View Repo →</a></p>
+      </td>
+      <td width="33%" align="center" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 14px; padding: 20px 16px; vertical-align: top;">
+        <p style="font-size: 22px; margin: 0 0 6px 0;">🏝️</p>
+        <p style="margin: 0 0 4px 0;"><strong style="color: #e6edf3; font-size: 16px;">templ-islands</strong></p>
+        <p style="margin: 0 0 10px 0; color: #34d399; font-size: 13px; font-weight: 600;">Islands Architecture</p>
+        <p style="margin: 0 0 12px 0; color: #8b949e; font-size: 13px; line-height: 1.5;">The <strong style="color: #c9d1d9;">same templ component</strong> rendered server-side or hydrated client-side. Optimistic UI, re-render, infinite scroll, real-time SSE streams.</p>
+        <p style="margin: 0 0 12px 0;"><code style="background-color: #161b22; color: #58a6ff; padding: 2px 6px; border-radius: 4px; font-size: 12px;">Go</code> <code style="background-color: #161b22; color: #58a6ff; padding: 2px 6px; border-radius: 4px; font-size: 12px;">templ</code> <code style="background-color: #161b22; color: #58a6ff; padding: 2px 6px; border-radius: 4px; font-size: 12px;">HTMX</code></p>
+        <p style="margin: 0;"><a href="https://github.com/SalvucciFacundo/templ-islands" style="color: #2dd4bf; font-size: 13px; font-weight: 600; text-decoration: none;">View Repo →</a></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <br/>
 
 ### > // PROJECT HUB
 
-| Project | Status / Type | Stack & Highlights |
-| :--- | :--- | :--- |
-| **[📅 Appointments App](https://github.com/SalvucciFacundo/appointments-app)** | 🟢 **Active** | `Next.js` `TypeScript` `PostgreSQL` `Auth.js`<br/>• SaaS for appointment management with role-based access.<br/>• Server-side rendering, REST API, secure authentication flow. |
-| **[🐦 Mis Canarios](https://miscanarios.com.ar)** | 🟢 **Production** | `Angular` `Firebase` `PWA`<br/>• Real-world system for bird breeding and pedigree tracking.<br/>• Complex database management and real user base. |
-| **[👕 Sector Remeras](https://sector-remeras.web.app)** | 🛒 **E-Commerce** | `Angular` `Firebase` `Tailwind`<br/>• Online store for custom t-shirts with gallery, admin panel and order forms. |
-| **[🛍️ Tecno Shop](https://github.com/SalvucciFacundo/tecno-shop)** | 🛒 **E-Commerce** | `Angular` `SCSS` `Firebase`<br/>• Technology store with product catalog and shopping flow. |
+<div align="center">
+  <table style="border-collapse: separate; border-spacing: 12px; width: 100%; max-width: 900px;">
+    <tr>
+      <td width="50%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 14px; padding: 16px 18px; vertical-align: top;">
+        <p style="margin: 0 0 6px 0;"><strong style="color: #e6edf3;">📅 Appointments App</strong> <span style="color: #34d399; font-size: 12px;">🟢 Active</span></p>
+        <p style="margin: 0 0 8px 0; color: #8b949e; font-size: 13px;">SaaS for appointment management with role-based access. SSR, REST API, secure auth.</p>
+        <p style="margin: 0;"><code style="background-color: #161b22; color: #58a6ff; padding: 2px 6px; border-radius: 4px; font-size: 11px;">Next.js</code> <code style="background-color: #161b22; color: #58a6ff; padding: 2px 6px; border-radius: 4px; font-size: 11px;">PostgreSQL</code> <code style="background-color: #161b22; color: #58a6ff; padding: 2px 6px; border-radius: 4px; font-size: 11px;">Auth.js</code></p>
+      </td>
+      <td width="50%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 14px; padding: 16px 18px; vertical-align: top;">
+        <p style="margin: 0 0 6px 0;"><strong style="color: #e6edf3;">🐦 Mis Canarios</strong> <span style="color: #34d399; font-size: 12px;">🟢 Production</span></p>
+        <p style="margin: 0 0 8px 0; color: #8b949e; font-size: 13px;">Real-world system for bird breeding and pedigree tracking. Real user base.</p>
+        <p style="margin: 0;"><code style="background-color: #161b22; color: #58a6ff; padding: 2px 6px; border-radius: 4px; font-size: 11px;">Angular</code> <code style="background-color: #161b22; color: #58a6ff; padding: 2px 6px; border-radius: 4px; font-size: 11px;">Firebase</code> <code style="background-color: #161b22; color: #58a6ff; padding: 2px 6px; border-radius: 4px; font-size: 11px;">PWA</code></p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 14px; padding: 16px 18px; vertical-align: top;">
+        <p style="margin: 0 0 6px 0;"><strong style="color: #e6edf3;">👕 Sector Remeras</strong> <span style="color: #f59e0b; font-size: 12px;">🛒 E-Commerce</span></p>
+        <p style="margin: 0 0 8px 0; color: #8b949e; font-size: 13px;">Online store for custom t-shirts with gallery, admin panel and order forms.</p>
+        <p style="margin: 0;"><code style="background-color: #161b22; color: #58a6ff; padding: 2px 6px; border-radius: 4px; font-size: 11px;">Angular</code> <code style="background-color: #161b22; color: #58a6ff; padding: 2px 6px; border-radius: 4px; font-size: 11px;">Firebase</code> <code style="background-color: #161b22; color: #58a6ff; padding: 2px 6px; border-radius: 4px; font-size: 11px;">Tailwind</code></p>
+      </td>
+      <td width="50%" style="background-color: #0d1117; border: 1px solid #30363d; border-radius: 14px; padding: 16px 18px; vertical-align: top;">
+        <p style="margin: 0 0 6px 0;"><strong style="color: #e6edf3;">🛍️ Tecno Shop</strong> <span style="color: #f59e0b; font-size: 12px;">🛒 E-Commerce</span></p>
+        <p style="margin: 0 0 8px 0; color: #8b949e; font-size: 13px;">Technology store with product catalog and shopping flow.</p>
+        <p style="margin: 0;"><code style="background-color: #161b22; color: #58a6ff; padding: 2px 6px; border-radius: 4px; font-size: 11px;">Angular</code> <code style="background-color: #161b22; color: #58a6ff; padding: 2px 6px; border-radius: 4px; font-size: 11px;">SCSS</code> <code style="background-color: #161b22; color: #58a6ff; padding: 2px 6px; border-radius: 4px; font-size: 11px;">Firebase</code></p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 > 💡 *More projects in development: a personal expenses tracker (Next.js + PostgreSQL + Auth.js), Go-based image classifier with local VLM, and new automation pipelines.*
 
